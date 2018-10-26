@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lox Game Studio</title>
+		<meta charset="utf-16"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-16">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<meta name="description" content="Need help? We are looking forward to helping you.">
+		<meta name="keywords" content="Lox Security Bot, Lox Game Studio, Bot, Discord Bot, bot, discord bot, lox bot, Lox Bot, Lox Discord Bots, lox discord bots">
+		<meta property="og:title" content="Lox Game Studio" />
+		<meta property="og:description" content="Need help? We are looking forward to helping you." />
+		<meta property="og:image" content="https://support.lgamestudio.com/static/loxbotpages.png" />
+		<meta property="og:url" content="https://support.lgamestudio.com/bots/492021132938182658" />
+
+		<link rel="icon" href="../general/favicon.ico" type="image/x-icon"/>
+		<link href="../general/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../general/css/style.css" rel="stylesheet">
+		<link href="./style/custom.css" rel="stylesheet">
+		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/css/bootstrap-select.min.css'>
+		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css'>
+	</head>
+	<body>
+		<div class="loader" id="lxloader"><div class="loader-container"></div><img class="loader-img" src="../general/img/loxx.png"/><div class="lds-default"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>
+		<div class="lnotifier-container" id="ilnotifier-container"><div class="lnotifier" id="ilnotifier"><h1 class="title" id="lxititle"></h1></br><p class="message" id="lximessage"></p></br><div class="lbuttons"><button class="lbtn lbtnCancel" id="ilbtn-cancel"></button><button class="lbtn lbtnOk" id="ilbtn-ok"></button></div></div></div>
+		<div class="site-container" id="isite-container">
+			<header>
+				<div class="menu">
+					<ul>
+						<li class=""><img border="0" onclick="location.href = 'https://www.lgamestudio.com';" src="../general/img/loxgamestudio.png"/></li>
+						<li class="col-lg-2  col-xs-2"><a href="https://www.lgamestudio.com" target="_blank" class="loxtokens" ltoken="backtolox">&lt; Lox Game Studio</a></li>
+						<li class="col-lg-2 col-xs-2"><a href="https://discord.gg/nJdmnK6" target="_blank" class="loxtokens" ltoken="joinsupportg">jsg</a></li>
+					</ul>
+				</div>
+				<select class="selectpicker lpicker" id="loxlanguagesystem-picker" data-style="btn-loxpicker" data-width="fit">
+						<option class="loxlanguagesystem-pickeritem" loxlang="en" data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
+						<option class="loxlanguagesystem-pickeritem" loxlang="tr" data-content='<span class="flag-icon flag-icon-tr"></span> Türkçe'>Turkish</option>
+				</select>
+			</header>
+			<div class="container-fluid">
+				<div class="lxcontainer-fluid-padder">
+				<ul class="nav nav-tabs unselectable">
+					<li class="active">
+						<a  href="#1" data-toggle="tab" class="loxtokens" ltoken="tab_wi">wi</a>
+					</li>
+					<li>
+						<a href="#2" data-toggle="tab" class="loxtokens" ltoken="tab_htsu">htsu</a>
+					</li>
+					<li>
+						<a href="#3" data-toggle="tab" class="loxtokens" ltoken="tab_cmds">cmds</a>
+					</li>
+					<li>
+						<a href="#4" data-toggle="tab" class="loxtokens" ltoken="tab_domains">domains</a>
+					</li>
+				</ul>
+				<div class="tab-content ">
+					<div class="tab-pane active lox-tabpanel" id="1">
+						<h3 class="lx-panel-h3 loxtokens" ltoken="wilsb01"></h3>
+						<p class="lx-panel-p loxtokens" ltoken="wilsb01_02"></p>
+						<img class="lx-panel-img lxdiagram" src="./images/diagram.png" />
+					</div>
+					<div class="tab-pane lox-tabpanel" id="2">
+						<h3 class="lx-panel-h3 loxtokens" ltoken="htsu01_01"></h3>
+						<p class="lx-panel-p loxtokens" ltoken="htsu01"></p>
+						<h3 class="lx-panel-h3 loxtokens" ltoken="htsu02_02"></h3>
+						<p class="lx-panel-p loxtokens" ltoken="htsu02"></p>
+					</div>
+					<div class="tab-pane lox-tabpanel" id="3">		
+					<h3 class="lx-panel-h3 loxtokens" ltoken="cmdst">Commands</h3>
+					<p class="lx-panel-p loxtokens" ltoken="lcmdprefix"></p>
+					<table class="table table-striped table-dark">
+					  <thead>
+					    <tr>
+					      <th scope="col" style="width: 6ch;">#</th>
+					      <th scope="col" class="loxtokens" ltoken="lcolcmd">cmd</th>
+					      <th scope="col" class="loxtokens" ltoken="lcoldesc">desc</th>
+					      <th scope="col" class="loxtokens" ltoken="lcolperm">perms</th>
+					    </tr>
+					  </thead>
+					  <tbody>
+					    <tr>
+					      <th scope="row">1</th>
+					      <td>help</td>
+					      <td class="loxtokens" ltoken="cmdhelpdesc"></td>
+					      <td class="loxtokens" ltoken="cmdhelpperms"></td>
+					    </tr>
+					    <tr>
+					      <th scope="row">2</th>
+					      <td>setprefix</td>
+					      <td class="loxtokens" ltoken="cmdprfxdesc"></td>
+					      <td class="loxtokens" ltoken="cmdprfxperms"></td>
+					    </tr>
+					    <tr>
+					      <th scope="row">3</th>
+					      <td>reportuser</td>
+					      <td class="loxtokens" ltoken="cmdreportudesc"></td>
+					      <td class="loxtokens" ltoken="cmdreportuperms"></td>
+					    </tr>
+						<tr>
+					      <th scope="row">4</th>
+					      <td>reportorcheck</td>
+					      <td class="loxtokens" ltoken="cmdreportocdesc"></td>
+					      <td class="loxtokens" ltoken="cmdreportocperms"></td>
+					    </tr>
+					  </tbody>
+					</table>
+					<h3 class="lx-panel-h3 loxtokens" ltoken="cmdsext"></h3>
+					<table class="table table-striped table-dark">
+					  <thead>
+					    <tr>
+					      <th scope="col" style="width: 6ch;">#</th>
+					      <th scope="col" class="loxtokens" ltoken="lcolcmd">cmd</th>
+					      <th scope="col" class="loxtokens" ltoken="lcolsamp">samples</th>
+					    </tr>
+					  </thead>
+					  <tbody>
+					    <tr>
+					      <th scope="row">1</th>
+					      <td>help</td>
+					      <td class="loxtokens" ltoken="cmdhelpsamp"></td>
+					    </tr>
+					    <tr>
+					      <th scope="row">2</th>
+					      <td>setprefix</td>
+					      <td class="loxtokens" ltoken="cmdprfxsamp"></td>
+					    </tr>
+					    <tr>
+					      <th scope="row">3</th>
+					      <td>reportuser</td>
+					      <td class="loxtokens" ltoken="cmdreportusamp"></td>
+					    </tr>
+						<tr>
+					      <th scope="row">4</th>
+					      <td>reportorcheck</td>
+					      <td class="loxtokens" ltoken="cmdreportocsamp"></td>
+					    </tr>
+					  </tbody>
+					</table>
+				</div>
+				<div class="tab-pane lox-tabpanel" id="4">
+					<h3 class="lx-panel-h3 loxtokens" ltoken="domainst"></h3>
+					<p class="lx-panel-p loxtokens" ltoken="domainstext"></p>
+					<h3 class="lx-panel-h3 loxtokens" ltoken="domainslistt"></h3>
+					<a class="lx-panel-link lx-panel-a-mcl unselectable loxtokens" ltoken="mdlitem01" onclick="openMaliciousDomainList('txt');"></a>
+					</br>
+					<a class="lx-panel-link lx-panel-a-mcl unselectable loxtokens" ltoken="mdlitem02" onclick="openMaliciousDomainList('xml');"></a>
+					</br>
+					<a class="lx-panel-link lx-panel-a-mcl unselectable loxtokens" ltoken="mdlitem03" onclick="openMaliciousDomainList('json');"></a>
+					</br>
+					<a class="lx-panel-link lx-panel-a-mcl unselectable loxtokens" ltoken="mdlitem04" onclick="openMaliciousDomainList('sqlinsert');"></a>
+				</div>
+				</div>
+			</div>
+			</div>
+			<footer>
+				<div class="footer" id="ifooter">
+					<p class="copyright loxtokens unselectable" ltoken="copyright">Copyright &copy; 2018 - Lox Game Studio.</p>
+				</div>
+			</footer>
+		</div>
+		
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script type="text/javascript" src="../general/scripts/jquery.min.js"></script>
+		<script type="text/javascript" src="../general/scripts/bootstrap.min.js"></script>
+		<script type="text/javascript" src="../general/scripts/browserdetector.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/js/bootstrap-select.min.js'></script>
+		<script >$(function () {
+				if (!isEdge)
+					$('.selectpicker').selectpicker();
+			});
+		</script>
+		<script type="text/javascript" src="../general/scripts/loxcookiemanager.js"></script>
+		<script type="text/javascript" src="../general/scripts/urlparameters.js"></script>
+		<script type="text/javascript" src="./js/lox_languages.js"></script>
+		<script type="text/javascript" src="../general/scripts/loxlanguagecore.js"></script>
+		<script type="text/javascript" src="../general/scripts/loxmessagebox.js"></script>
+		<script type="text/javascript" src="../general/scripts/main.js"></script>
+		<script type="text/javascript" src="./js/custom.js"></script>
+	</body>
+</html>
