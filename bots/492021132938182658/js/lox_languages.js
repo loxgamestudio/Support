@@ -95,7 +95,7 @@ var german =
     "cmdreportusamp": "&gt;reportuser \"Wumpus\"",
     "cmdreportocsamp": "&gt;reportorcheck \"www.example.com\"",
     "domainst": "Erkannte bösartige Domönennamen",
-    "domainstext": "Wir haben bis heute ",
+    "domainstext": "Wir haben bis heute \"210.000\" bösartige Domainnamen entdeckt, und wir würden gerne einige der entdeckten bösartigen Domains mit Ihnen teilen. </br> Es gibt ein paar Listen, die wir speziell für Sie erstellt haben. Aber wir möchten klarstellen, dass diese Liste nur 10.636 dieser bösartigen Domainnamen enthält.",
     "domainslistt": "Liste bösartiger Domainnamen",
     "mdlitem01": "Textdatei",
     "mdlitem02": "XML-Datei",
