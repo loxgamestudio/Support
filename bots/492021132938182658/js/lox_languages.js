@@ -54,6 +54,57 @@ var english =
     "msgboxMessage01": "Lox Game Studio will now direct you to the malicious domain names list. Please do not press any of the links that the list provides.</br>Otherwise Lox Game Stuido will not take any responsibility."
 };
 
+/*
+* Generated with Lox Javascript Generator.
+*/
+var german =
+{
+    "title": "Lox Game Studio",
+    "copyright": "Urheberrecht & Kopie; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
+    "backtolox": "Startseite",
+    "joinsupportg": "Support",
+    "tab_wi": "Lox Sicherheits-Bot",
+    "tab_htsu": "Information zum Installieren",
+    "tab_cmds": "Befehle",
+    "tab_domains": "Erkannte Domainnamen",
+    "msgBox_cancel": "Abbrechen",
+    "msgBox_ok": "Verstanden.",
+    "wilsb01": "Was macht Lox Sicherheits-Bot?",
+    "wilsb01_02": "Lox Sicherheits-Bot wurde entwickelt, um zu verhindern, dass in Ihrer Abwesenheit auf dem Server schlimme Dinge passieren. Als Beispiel, während Sie an einer anderen Aufgabe arbeiten, ist jemand, der Dinge werben wollte (Namen, die Gruppeneinladungen usw. einschließen) Ihrem Server beigetreten, wenn es von den Servermoderatoren oder dem Besitzer selbst unbemerkt bleibt, ist es für diese Person möglich eine weile auf den Server zu bleiben richtig? Aber sie haben etwas vergessen, Lox Sicherheits-Bot wurde genau dafür gemacht, diese Art von Problemen zu bekämpfen, in Ihrer Abwesenheit wird jeder, der dem Server beitritt, um Werbung zu machen, automatisch aus dem Server geworfen und der Besitzer wird vom Bot benachrichtigt </br> Außerdem wird jeder, der ein Schimpfwort auf seinen Namen hat, automatisch vom Bot gekickt. </br> </br> Es gibt auch einen anderen Algorithmus, den wir verwenden, um die Sicherheit des Servers zu verbessern. Wenn ein Benutzer, der dem Server beigetreten ist, in den letzten 24 Stunden erstellt wurde, wird der Serverbesitzer mit einer entsprechenden Beschreibung benachrichtigt. </br> </br> Eine der wichtigsten Eigenschaften von Lox Sicherheits-Bot ist die Tatsache, dass jeder Nachrichten in einen gefährlichen Link oder mögliche Scamming-Website enthält, wird die Nachricht in kürzester Zeit gelöscht und die Person, die die Nachricht gesendet hat, wird gewarnt. </br> </br> Zusätzlich können Sie andere Berichte erstellen.",
+    "htsu01": "Es gibt nichts, was Sie tun müssen, um Lox Sicherheits-Bot nach dem Hinzufügen zu Ihren Server zu aktivieren, nachdem es dem Server hinzugefügt wurde, wird es automatisch ausgeführt. </br> Wenn das Bots-Präfix Zeichen mit einen anderen Bot in Konflikt steht Ihr Server kann mit> setpräfix geändert werden. </br> </br> Sie können den Bot zu Ihrer Gruppe hinzufügen, indem Sie <a href=\"https://discordapp.com/oauth2/authorize?client_id=492021132938182658&scope=bot&permissions=76806\" target=\"_blank\">hier</a>. </br></br><a href=\"https://discordbots.org/bot/492021132938182658\"><img src=\"https://discordbots.org/api/widget/status/492021132938182658.svg\" alt=\"Security Bot\"/></a> klicken.",
+    "htsu01_01": "Wie benutzt man den Lox Sicherheits-Bot?",
+    "htsu02_02": "Zusätzliche Infos",
+    "htsu02": "Lox Sicherheits-Bot benötigt einige Berechtigungen, um alle Funktionen nutzen zu können. Wenn Sie den Bot hinzufügen, wenn Sie ihm nicht die Erlaubnis geben, Nachrichten löschen zu können, kann er die schädlichen Links von Ihrem Server nicht löschen. </br> Wenn dabei ein Problem auftritt, werden Sie automatisch benachrichtigt. Im Falle, dass die Probleme nicht behoben werden, können einige der Features kaputt gehen oder gar nicht funktionieren. </br> </br> Lox Game Studios respektiert Ihre Privatsphäre und wird keine Nachrichten direkt ansehen oder irgendwo anders teilen.",
+    "lcolcmd": "Befehl",
+    "lcoldesc": "Beschreibung",
+    "lcolperm": "Berechtigungen",
+    "cmdst": "Befehle",
+    "cmdhelpdesc": "Zeigt die Beschreibung und Beispiele eines Befehls an, und wenn er allein verwendet wird, werden alle Befehle aufgelistet.",
+    "cmdhelpperms": "Jeder",
+    "cmdprfxdesc": "Ändert das Präfixzeichen. Sie können es ändern, wenn es mit einem anderen Bots-Präfixzeichen in Konflikt steht.",
+    "cmdprfxperms": "Moderator oder Serverbesitzer",
+    "cmdreportudesc": "Meldet den angegebenen Benutzer zu uns. Das Melden eines Benutzers wird dazu beitragen, dass andere Server die gleichen Probleme, die Sie mit dem gemeldeten Benutzer durchgemacht haben, nicht mehr durchlaufen und die Sicherheit der Server verbessern. Wenn es einen Benutzer gibt, den Sie melden möchten, können Sie ihn melden, indem Sie seinen Benutzernamen oder seine ID zusammen mit diesem Befehl schreiben. </br> Wir möchten klarstellen, dass die Benutzer, die gemeldet werden, nicht sofort zur Blacklist hinzugefügt werden wird vorher von Lox Game Studio überprüft.",
+    "cmdreportuperms": "Jeder",
+    "cmdreportocdesc": "Sie können die Websites manuell mit diesem Befehl überprüfen. Websites, die mit diesem Befehl gescannt werden, werden anschließend als zusätzlicher Schritt mit VirusTotal überprüft. </br> Wir empfehlen Ihnen dringend, einige Zeit damit zu verbringen, da an Sie gesendeten Links zu überprüfen, anstatt sie direkt zu öffnen.",
+    "cmdreportocperms": "Jeder",
+    "lcmdprefix": "Standard Präfix Zeichen: <span class=\"lx-panel-p-span-prefix\">&gt;</span>",
+    "cmdsext": "Beispiele",
+    "lcolsamp": "Beispiel",
+    "cmdhelpsamp": "&gt;help or &gt;help \"setprefix\"",
+    "cmdprfxsamp": "&gt;setprefix \"test\"",
+    "cmdreportusamp": "&gt;reportuser \"Wumpus\"",
+    "cmdreportocsamp": "&gt;reportorcheck \"www.example.com\"",
+    "domainst": "Erkannte bösartige Domönennamen",
+    "domainstext": "Wir haben bis heute ",
+    "domainslistt": "Liste bösartiger Domainnamen",
+    "mdlitem01": "Textdatei",
+    "mdlitem02": "XML-Datei",
+    "mdlitem03": "JSON-Datei",
+    "mdlitem04": "SQL-INSERT-Datei",
+    "msgboxTitle01": "Warnung",
+    "msgboxMessage01": "Lox Game Studio leitet Sie nun zur Liste der bösartigen Domainnamen. Bitte drücken Sie keine der Links, die die Liste bietet. </br> Andernfalls Lox Game Studio übernimmt keine Verantwortung."
+};
+
 var turkish = 
 {
     "title": "Lox Oyun Stüdyosu", 
