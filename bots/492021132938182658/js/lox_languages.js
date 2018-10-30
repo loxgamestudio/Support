@@ -60,7 +60,7 @@ var english =
 var german =
 {
     "title": "Lox Game Studio",
-    "copyright": "Urheberrecht & Kopie; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
+    "copyright": "Urheberrecht &copy; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
     "backtolox": "Startseite",
     "joinsupportg": "Support",
     "tab_wi": "Lox Sicherheits-Bot",
