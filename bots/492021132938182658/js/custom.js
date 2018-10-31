@@ -55,8 +55,7 @@ function openPatreonPage()
 	window.open('https://www.patreon.com/loxgamestudio','_blank');
 }
 
-
-if (isMobile == true)
+if( !isMobile.Windows() ) 
 {
 	var patreon = document.getElementById('ilox-patreon');
 	patreon.style.display = "none";
