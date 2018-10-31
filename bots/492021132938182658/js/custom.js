@@ -60,4 +60,6 @@ if (pwidth < 995)
 {
 	var patreon = document.getElementById('ilox-patreon');
 	patreon.style.display = "none";
+	var langselect = document.getElementById('loxlanguagesystem-picker');
+	langselect.style.display = "none";
 }
