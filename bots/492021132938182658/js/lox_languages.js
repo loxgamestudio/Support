@@ -9,6 +9,7 @@
 var english =
 {
     "title": "Lox Game Studio",
+      "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
     "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
     "backtolox": "Home Page",
     "joinsupportg": "Support",
@@ -60,6 +61,7 @@ var english =
 var german =
 {
     "title": "Lox Game Studio",
+      "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
     "copyright": "Urheberrecht &copy; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
     "backtolox": "Startseite",
     "joinsupportg": "Support",
@@ -110,6 +112,7 @@ var turkish =
     "title": "Lox Oyun Stüdyosu", 
     "copyright": "Telif Hakkı &copy; 2018 - Lox Game Studio. Tüm hakları saklıdır.<br>Tüm ticari markalar ABD ve diğer ülkelerdeki kendi sahiplerinin mülkiyetindedir.",
     "backtolox": "Ana Sayfa",
+        "patreonmsg":"Hizmetlerimizden, oyunlarımızdan, API'lerden, kütüphanelerimizden veya botlarımızdan birini seviyorsanız, lütfen daha fazla özellik için desteklemeyi unutmayın. ",
     "joinsupportg": "Destek",
     "tab_wi": "Lox Güvenlik Botu",
     "tab_htsu": "Nasıl Kurulur",
