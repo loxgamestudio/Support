@@ -22,6 +22,13 @@ switch (selectedTab)
 	break;
 }
 
+var pwidth = $(window).width();
+if (pwidth < 999)
+{
+	var patreon = document.getElementById('ilox-patreon');
+	patreon.style.display = "none";
+}
+
 /*var ahrefDomains = document.getElementsByClassName("lx-panel-a-mcl");
 alert(ahrefDomains + " - "+ahrefDomains.length);
 for (var i = 0; i < ahrefDomains.length; i++)
@@ -53,11 +60,4 @@ function openMaliciousDomainList(type)
 function openPatreonPage()
 {
 	window.open('https://www.patreon.com/loxgamestudio','_blank');
-}
-
-var pwidth = $(window).width();
-if (pwidth < 995)
-{
-	var patreon = document.getElementById('ilox-patreon');
-	patreon.style.display = "none";
 }
