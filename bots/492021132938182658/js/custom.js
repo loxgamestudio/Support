@@ -49,3 +49,15 @@ function openMaliciousDomainList(type)
 		break;
 	}
 }
+
+function openPatreonPage()
+{
+	window.open('https://www.patreon.com/loxgamestudio','_blank');
+}
+
+
+if (isMobile == true)
+{
+	var patreon = document.getElementById('ilox-patreon');
+	patreon.style.display = "none";
+}
