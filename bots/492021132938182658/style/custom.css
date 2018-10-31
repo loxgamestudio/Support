@@ -54,3 +54,15 @@
 	margin: 0px;
 	padding-bottom: 5px;
 }
+
+.patreon-button2
+{
+	width: 128px;
+	transition: filter 0.5s ease;
+	cursor: pointer;
+}
+
+.patreon-button2:hover
+{
+	filter: brightness(0.5);
+}
