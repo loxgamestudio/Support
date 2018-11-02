@@ -9,8 +9,8 @@
 var english =
 {
     "title": "Lox Game Studio",
-      "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
-    "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
+    "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
+    "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.lgamestudio.com/terms\">Terms of Service</a>&nbsp;|&nbsp;<a href=\"https://www.lgamestudio.com/privacy\">Privacy Policy</a><br>All trademarks are the property of their respective owners in the US and other countries.",
     "backtolox": "Home Page",
      "donateus":"Donation",
     "joinsupportg": "Support",
@@ -63,7 +63,7 @@ var german =
 {
     "title": "Lox Game Studio",
       "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
-    "copyright": "Urheberrecht &copy; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
+    "copyright": "Urheberrecht &copy; 2018 - Lox Game Studio. Alle Rechte vorbehalten.&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.lgamestudio.com/terms\">Nutzungsbedingungen</a>&nbsp;|&nbsp;<a href=\"https://www.lgamestudio.com/privacy\">Datenschutz-Bestimmungen</a><br>Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
     "backtolox": "Startseite",
         "donateus":"Spende",
     "joinsupportg": "Support",
@@ -112,7 +112,7 @@ var german =
 var turkish = 
 {
     "title": "Lox Oyun Stüdyosu", 
-    "copyright": "Telif Hakkı &copy; 2018 - Lox Game Studio. Tüm hakları saklıdır.<br>Tüm ticari markalar ABD ve diğer ülkelerdeki kendi sahiplerinin mülkiyetindedir.",
+    "copyright": "Telif Hakkı &copy; 2018 - Lox Game Studio. Tüm hakları saklıdır.&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.lgamestudio.com/terms\">Kullanım Şartları</a>&nbsp;|&nbsp;<a href=\"https://www.lgamestudio.com/privacy\">Gizlilik Politikası</a><br>Tüm ticari markalar ABD ve diğer ülkelerdeki kendi sahiplerinin mülkiyetindedir.",
     "backtolox": "Ana Sayfa",
         "patreonmsg":"Hizmetlerimizden, oyunlarımızdan, API'lerden, kütüphanelerimizden veya botlarımızdan birini seviyorsanız, lütfen daha fazla özellik için desteklemeyi unutmayın. ",
     "joinsupportg": "Destek",
