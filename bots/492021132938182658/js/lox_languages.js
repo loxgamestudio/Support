@@ -9,7 +9,7 @@
 var english =
 {
     "title": "Lox Game Studio",
-    "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
+    "copyright":"Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
     "backtolox": "Home Page",
     "bots": "Bots",
     "about": "About",
