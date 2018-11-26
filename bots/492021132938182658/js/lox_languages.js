@@ -56,7 +56,7 @@ var english =
     "cmdadsonusername":"Enables or disables the ad detection on username system. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdadsonusernameperms": "Moderator or server owner",
     
-    "cmdspam", "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
+    "cmdspam": "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdspamperms": "Moderator or server owner",
 
     "lcmdprefix": "Default prefix character: <span class=\"lx-panel-p-span-prefix\">&gt; (Customizable)</span>",
@@ -135,7 +135,7 @@ var german =
     "cmdadsonusername":"Enables or disables the ad detection on username system. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdadsonusernameperms": "Moderator oder Serverbesitzer",
     
-    "cmdspam", "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
+    "cmdspam": "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdspamperms": "Moderator or server owner",
 
     "lcmdprefix": "Standard Präfix Zeichen: <span class=\"lx-panel-p-span-prefix\">&gt; (ersetzbar)</span>",
@@ -213,7 +213,7 @@ var turkish =
     "cmdadsonusername":"Kullanıcı adı sistemindeki reklam tespitini etkinleştirir veya devre dışı bırakır. Bu mülkü etkinleştirmek veya devre dışı bırakmak için lütfen 1 veya 0 yazın. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.",
     "cmdadsonusernameperms": "Moderatör veya sunucu sahibi",
     
-    "cmdspam", "Spam algılama algoritmasını etkinleştirir veya devre dışı bırakır. Bu mülkü etkinleştirmek veya devre dışı bırakmak için lütfen 1 veya 0 yazın. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.",
+    "cmdspam": "Spam algılama algoritmasını etkinleştirir veya devre dışı bırakır. Bu mülkü etkinleştirmek veya devre dışı bırakmak için lütfen 1 veya 0 yazın. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.",
     "cmdspamperms": "Moderatör veya sunucu sahibi",
 
     "lcmdprefix": "Varsayılan prefix karakteri: <span class=\"lx-panel-p-span-prefix\">&gt; (Değiştirilebilir)</span>",
