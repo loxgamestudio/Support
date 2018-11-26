@@ -3,6 +3,7 @@
 * Developed by: LordOf Xen
 */
 
+
 /*
 * Generated with Lox Javascript Generator from Turkish to English.
 */
