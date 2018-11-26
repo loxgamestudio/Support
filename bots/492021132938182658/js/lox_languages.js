@@ -55,6 +55,9 @@ var english =
 
     "cmdadsonusername":"Enables or disables the ad detection on username system. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdadsonusernameperms": "Moderator or server owner",
+    
+    "cmdspam", "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
+    "cmdspamperms": "Moderator or server owner",
 
     "lcmdprefix": "Default prefix character: <span class=\"lx-panel-p-span-prefix\">&gt; (Customizable)</span>",
     "cmdsext": "Examples",
@@ -66,6 +69,7 @@ var english =
         "cmdblacklisteduserssamp": "&gt;detectblacklistedusers 1",
     "cmdfakeaccountssamp": "&gt;detectfakeaccounts 1",
     "cmdadsonusernamesamp": "&gt;detectadsonusername 1",
+    "cmdspamsamp": "&gt;detectspam 1",
     "domainst": "Detected Malicious Domain Names",
     "domainstext": "We detected \"210.000\" malicious domain names to this day, and we would be happy to share some of the detected malicious domains with you.</br>There are a few lists that we have created specially for you. But we want to make it clear that these lists only contains 10.636 of these malicious domain names.",
     "domainslistt": "Malicious Domain Name Lists",
@@ -130,6 +134,9 @@ var german =
 
     "cmdadsonusername":"Enables or disables the ad detection on username system. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
     "cmdadsonusernameperms": "Moderator oder Serverbesitzer",
+    
+    "cmdspam", "Enables or disables the spam detection algorithm. Please type 1 or 0 to enable or disable this property. For more information, do not hesitate to contact us.",
+    "cmdspamperms": "Moderator or server owner",
 
     "lcmdprefix": "Standard Präfix Zeichen: <span class=\"lx-panel-p-span-prefix\">&gt; (ersetzbar)</span>",
     "cmdsext": "Beispiele",
@@ -142,6 +149,7 @@ var german =
     "cmdblacklisteduserssamp": "&gt;detectblacklistedusers 1",
     "cmdfakeaccountssamp": "&gt;detectfakeaccounts 1",
     "cmdadsonusernamesamp": "&gt;detectadsonusername 1",
+    "cmdspamsamp": "&gt;detectspam 1",
 
     "domainst": "Erkannte bösartige Domönennamen",
     "domainstext": "Wir haben bis heute \"210.000\" bösartige Domainnamen entdeckt, und wir würden gerne einige der entdeckten bösartigen Domains mit Ihnen teilen. </br> Es gibt ein paar Listen, die wir speziell für Sie erstellt haben. Aber wir möchten klarstellen, dass diese Liste nur 10.636 dieser bösartigen Domainnamen enthält.",
@@ -204,6 +212,9 @@ var turkish =
 
     "cmdadsonusername":"Kullanıcı adı sistemindeki reklam tespitini etkinleştirir veya devre dışı bırakır. Bu mülkü etkinleştirmek veya devre dışı bırakmak için lütfen 1 veya 0 yazın. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.",
     "cmdadsonusernameperms": "Moderatör veya sunucu sahibi",
+    
+    "cmdspam", "Spam algılama algoritmasını etkinleştirir veya devre dışı bırakır. Bu mülkü etkinleştirmek veya devre dışı bırakmak için lütfen 1 veya 0 yazın. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.",
+    "cmdspamperms": "Moderatör veya sunucu sahibi",
 
     "lcmdprefix": "Varsayılan prefix karakteri: <span class=\"lx-panel-p-span-prefix\">&gt; (Değiştirilebilir)</span>",
     "cmdsext": "Örnekler",
@@ -215,6 +226,7 @@ var turkish =
         "cmdblacklisteduserssamp": "&gt;detectblacklistedusers 1",
     "cmdfakeaccountssamp": "&gt;detectfakeaccounts 1",
     "cmdadsonusernamesamp": "&gt;detectadsonusername 1",
+    "cmdspamsamp": "&gt;detectspam 1",
     "domainst": "Tespit Edilen Zararlı Alan Adları",
     "domainstext": "Bugüne kadar 210 bin zararlı alan adı tespit ettik ve sunucumuza ekledik. Bu tespit edilen zararlı alan adlarının bir kısmını sizlerle paylaşmaktan mutluluk duyarız.</br>Sizlere özel olarak hazırladığımız listeler var. Ama listelerin sadece 10636 zararlı alan adını içerdiğini de belirtmek isteriz.</br>",
     "domainslistt": "Zararlı Alan Adı Listeleri",
