@@ -44,10 +44,14 @@
 
 		<div class="grid-container" id="igrid-container">
 			<div class="LHeader">
-				<div class="lox-patreon" id="ilox-patreon">
+				<!--<div class="lox-patreon" id="ilox-patreon">
 						<img class="patreonlogo" onclick="openPatreonPage();" src="./images/patreon.png"/>
 						<p class="patreon-msg loxtokens" ltoken="patreonmsg">If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features.</p>
 						<img class="patreonbutton" onclick="openPatreonPage();" src="./images/become_a_patron_button.png"/>
+</div>-->
+								<div class="lox-na" id="ilox-na">
+					<h2>WE ARE REALLY SORRY!</h2>
+					<h3>All Lox Services are temporarily down because of the Internet Provider. All of them will be back immediately after we fix the issue. Thank you for your patience and support.</h3>
 				</div>
 				<header class="header-fixed">
 					<div class="header-limiter">
@@ -315,14 +319,17 @@
 			function onBodyResize()
 			{
 				var pwidth = $(window).width();
-					var patreon = document.getElementById('ilox-patreon');
+					//var patreon = document.getElementById('ilox-patreon');
+				var loxna = document.getElementById('ilox-na');
 if (pwidth < 995)
 {
-	patreon.style.display = "none";
+	//patreon.style.display = "none";
+	loxna.style.display = "none";
 }
 else
 {
-patreon.style.display = "block";
+//patreon.style.display = "block";
+	loxna.style.display = "block";
 }
 
 				if (window.innerWidth < 1256)
