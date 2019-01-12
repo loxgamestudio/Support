@@ -14,6 +14,35 @@ body
 	cursor: pointer;
 }
 
+.lox-na
+{
+	color: white;
+	background-color: orangered;
+	padding: 0px;
+	margin:0px;
+	padding-left: 10px;
+	overflow: hidden;
+}
+
+.lox-na h2, .lox-na h3
+{
+	font-family: Tahoma, "Segoe UI", "San Francisco", Helvetica, Arial, sans-serif;
+	text-align: center;
+
+}
+
+.lox-na h2{
+	font-size: 22pt;
+	text-shadow: 0px 0px 6px white, 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
+.lox-na h3
+{
+	font-size: 12pt;
+	text-shadow: 0px 0px 6px white;
+	margin-bottom: 25px;
+}
+
 .lox-patreon
 {
 	color: white;
