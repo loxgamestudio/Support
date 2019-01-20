@@ -10,7 +10,7 @@
 var english =
 {
     "title": "Lox Game Studio",
-    "copyright":"Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
+    "copyright":"Copyright &copy; 2019 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries.",
     "backtolox": "Home Page",
     "bots": "Bots",
     "about": "About",
@@ -90,7 +90,7 @@ var german =
 {
     "title": "Lox Game Studio",
     "patreonmsg":"If you love one of our services, games, APIS, libraries or bots, please don't forget to support for more features. ",
-    "copyright": "Urheberrecht & Kopie; 2018 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
+    "copyright": "Urheberrecht & Kopie; 2019 - Lox Game Studio. Alle Rechte vorbehalten <br> Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.",
     "backtolox": "Startseite",
     "joinus": "Begleiten Sie uns!",
     "joinustxt": "Wenn Sie möchten, dass unser Team Lox Security Bot entwickelt, können Sie das Projekt unterstützen, indem Sie sich unserer Gruppe Discord anschließen.",
@@ -168,7 +168,7 @@ var turkish =
 {
     "title": "Lox Oyun Stüdyosu", 
     "patreonmsg":"Hizmetlerimizden, oyunlarımızdan, API'lerden, kütüphanelerimizden veya botlarımızdan birini seviyorsanız, lütfen daha fazla özellik için desteklemeyi unutmayın. ",
-    "copyright": "Telif Hakkı &copy; 2018 - Lox Game Studio. Tüm hakları saklıdır.<br>Tüm ticari markalar ABD ve diğer ülkelerdeki kendi sahiplerinin mülkiyetindedir.",
+    "copyright": "Telif Hakkı &copy; 2019 - Lox Game Studio. Tüm hakları saklıdır.<br>Tüm ticari markalar ABD ve diğer ülkelerdeki kendi sahiplerinin mülkiyetindedir.",
     "backtolox": "Ana Sayfa",
     "discordwidget": "<iframe src=\"https://discordapp.com/widget?id=513510406438912012&theme=dark\" width=\"350\" height=\"500\" allowtransparency=\"true\" frameborder=\"0\"></iframe>",
     "bots": "Botlar",
